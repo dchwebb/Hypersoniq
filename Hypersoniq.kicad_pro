@@ -405,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SSI2140_Filter.kicad_pro",
+    "filename": "Hypersoniq.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -527,6 +527,22 @@
     [
       "3008c47a-0b70-48ce-87af-10c40a725fcd",
       ""
+    ],
+    [
+      "9c8f195a-a4b1-4532-9301-1cd38e86dd4a",
+      "Filter_Voice1"
+    ],
+    [
+      "7656de8b-c88c-4e32-ad9f-d080aed88caf",
+      "Filter_Voice2"
+    ],
+    [
+      "91ee7978-c07d-4f87-9306-c4c93f5e5ff8",
+      "Filter_Voice3"
+    ],
+    [
+      "019c3733-1433-40af-8345-eae1f88f1e2d",
+      "Filter_Voice4"
     ]
   ],
   "text_variables": {}
