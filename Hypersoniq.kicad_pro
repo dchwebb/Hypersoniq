@@ -470,11 +470,11 @@
     "netclass_patterns": [
       {
         "netclass": "Power_Wide",
-        "pattern": "+*"
+        "pattern": "*+12*"
       },
       {
         "netclass": "Power_Wide",
-        "pattern": "-*"
+        "pattern": "*-12*"
       }
     ]
   },
