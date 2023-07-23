@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 31,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -14,6 +14,7 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -40,8 +41,10 @@
       11,
       12,
       13,
+      14,
       15,
       16,
+      17,
       18,
       19,
       20,
@@ -59,14 +62,13 @@
       33,
       34,
       35,
-      36,
-      40
+      36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Hypersoniq.kicad_prl",
+    "filename": "Hypersoniq_Controls.kicad_prl",
     "version": 3
   },
   "project": {
