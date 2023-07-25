@@ -55,12 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_overlap|82400000|130600000|02edd418-4b74-4ee7-a1ac-d2ffab02b7c7|e77c9c7b-b07d-4997-9dc9-930def759603",
-        "silk_overlap|82500000|145400000|51b4ce4d-3fd9-40f4-92d0-d0db65a11233|02d8e6e0-3ebe-4ea7-9128-9077fac8e3ce",
-        "silk_overlap|82600000|86900000|3544e25d-112d-431b-8584-9d52b8235255|b755e98f-a92a-45b7-9a79-f846f747a838",
-        "silk_overlap|82700000|102000000|75f272a7-65f6-4a8c-a563-0a0949be9dc2|f2de359f-e3fa-4396-abef-5981813ccf77"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
