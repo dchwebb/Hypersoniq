@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
-%TF.CreationDate,2023-07-24T12:21:57+01:00*%
+%TF.CreationDate,2023-07-26T19:03:53+01:00*%
 %TF.ProjectId,Hypersoniq_Components,48797065-7273-46f6-9e69-715f436f6d70,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.6) date 2023-07-24 12:21:57*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-07-26 19:03:53*
 %MOMM*%
 %LPD*%
 G01*
@@ -172,7 +172,7 @@ X52650000Y-148050000D03*
 X84100000Y-62600000D03*
 %TD*%
 %TO.C,TP3*%
-X88400000Y-148000000D03*
+X87900000Y-93500000D03*
 %TD*%
 D12*
 %TO.C,J3*%

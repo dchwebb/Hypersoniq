@@ -16,7 +16,3 @@ Comment,Designator,Footprint,LCSC
 TL072,U6,SO-8_3.9x4.9mm_P1.27mm,C6961
 200,"R18,R19,R20,R21,R32,R33,R34,R35,R4,R46,R47,R48,R49,R5,R6,R7",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C8218
 1N5819,"D1,D2",D_SOD-123,C8598
-Eurorack_10_pin_power,J4,Eurorack_10_pin_header,
-Conn_01x10_Pin,J3,PinHeader_1x10_P2.54mm_Vertical,
-Conn_01x10_Pin,J1,PinHeader_1x10_P2.54mm_Vertical,
-Conn_01x10_Pin,J2,PinHeader_1x10_P2.54mm_Vertical,
