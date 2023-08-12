@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Hypersoniq")
+    (date "2023-08-12")
+    (rev "1.0")
+    (company "Mountjoy Modular")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:TL072" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 5.08 0)
@@ -1403,6 +1410,11 @@
   (text "Gain: -4.7k / 10k = -0.47\n " (at 68.58 113.03 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 43fbd823-b4cc-4173-ac6e-2a6e8ee67b12)
+  )
+  (text "v1.0 Issues:\n- Blocking output caps increased from 2.2nF to 2.2uF to resuce HF cut-off from 7kHz to 7Hz\n- Add Voltage Divider on input as filter clips above +/-5V\n- Increase value of feedback resistors on mixers as scaling input"
+    (at 181.61 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 792e0731-d2e3-467a-ab62-e8a6e56c2b1e)
   )
   (text "Output Mixing" (at 20.32 124.46 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
